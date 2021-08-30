@@ -1,0 +1,19 @@
+{
+  "name": "tjfreehosting",
+  "version": "1.0.0",
+  "description": "TJFreeHosting is free hosting platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahiJameel/TJFreeHosting.git"
+  },
+  "author": "Sheikh Taha Jameel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TahiJameel/TJFreeHosting/issues"
+  },
+  "homepage": "https://github.com/TahiJameel/TJFreeHosting#readme"
+}
