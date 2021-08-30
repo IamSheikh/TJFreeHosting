@@ -2,7 +2,7 @@
   "name": "tjfreehosting",
   "version": "1.0.0",
   "description": "TJFreeHosting is free hosting platform",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
