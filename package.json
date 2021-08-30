@@ -4,7 +4,7 @@
   "description": "TJFreeHosting is free hosting platform",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/TahiJameel/TJFreeHosting/issues"
   },
-  "homepage": "https://github.com/TahiJameel/TJFreeHosting#readme"
+  "homepage": "https://github.com/TahiJameel/TJFreeHosting#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
